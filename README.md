@@ -14,3 +14,8 @@ En un archivo .env guardar las siguientes variables de entorno
 - *DB_HOST="localhost"
 - *DB_PORT="el puerto donde corre tu base de datos"
 - *DB_NAME="el nombre de tu base de datos"
+
+endpoints utilizados 
+-* post film/newpost
+-* get film/title
+-* delete film/delete/:filmid
